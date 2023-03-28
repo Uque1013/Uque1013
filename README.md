@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Y2EUN&fontSize=100)
-
+<div align=center>
+	<h3>🌱새싹 개발자🌱</h3>
 </div>
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uque1013&langs_count=8)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=radical)
+<div align=center>
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uque1013&langs_count=8)
+	
 </div>
 
 <div align=center><h3>📚 My Languages 💛</h3></div>
