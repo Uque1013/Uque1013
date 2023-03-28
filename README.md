@@ -4,7 +4,7 @@
 
 <div align=center>
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uque1013&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=skyblue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uque1013&langs_count=8)
 	
 </div>
 
