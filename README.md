@@ -30,7 +30,7 @@
 
 <h3>🐈‍⬛ My Blog ! 🖤</h3>
 <div align=left>
-	<a href="https://uque1013.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+	<a href="https://uque1013.tistory.com/"><img src="https://img.shields.io/badge/유쾌한 코딩생활-000000?style=flat&logo=Tistory&logoColor=white"/>
 </div>
 
 
