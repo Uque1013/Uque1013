@@ -11,7 +11,7 @@
 <h2>My Git stats: </h2>
 <div align=center>
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=skyblue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uque1013&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=skyblue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uque1013&layout=compact)
 	
 </div>
 
@@ -32,7 +32,6 @@
 <div align=left>
 	<a href="https://uque1013.tistory.com/"><img src="https://img.shields.io/badge/유쾌한 코딩생활-000000?style=flat&logo=Tistory&logoColor=white"/>
 </div>
-
 
 
 
