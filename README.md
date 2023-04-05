@@ -11,7 +11,7 @@
 <h2>My Git stats: </h2>
 <div align=center>
 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=sky-blue)](https://github.com/Uque1013/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uque1013)](https://github.com/Uque1013/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uque1013&show_icons=true&theme=sky-blue)](https://github.com/Uque1013/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uque1013&layout=compact)](https://github.com/Uque1013/github-readme-stats)
 	
 </div>
 
