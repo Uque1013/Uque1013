@@ -2,9 +2,6 @@
 	<h1>Welcome My Github ! <br>
 		I'm YeEun Kim 😊💙
 	</h1>
-</div>
-
-<div align=center>
 	<h3>🌱새싹 개발자🌱</h3>
 </div>
 
