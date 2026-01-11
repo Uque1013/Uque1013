@@ -11,7 +11,7 @@
 ## 📁 Portfolio
 
 - 📌 **MeetUp Center — 중간 지점 기반 약속 장소 추천 서비스**  
-   *(Spring Boot · Kakao Maps API · MySQL)*
+     *(2026.01)* *(Spring Boot · Kakao Maps API · MySQL)*
 
 
 ## 🛠 Tech Stack
