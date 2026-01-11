@@ -1,28 +1,35 @@
 ## 👋 Hi, I'm YeKim, Backend Developer
+문제를 한 가지 방식으로 보지 않고,  
+기술과 사용자 관점 사이에서 최적의 해답을 찾는 백엔드 개발자입니다.
+
+## 🏢 Experience
+
+- **Backend Developer**  
+  @ Inpro Corp. (2024.12 ~ ing)
+
+
+## 📁 Portfolio
+
+- 📌 **MeetUp Center — 중간 지점 기반 약속 장소 추천 서비스**  
+   *(Spring Boot · Kakao Maps API · MySQL)*
+
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=maven&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gradle&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ubuntu&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
+**Backend**
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=light)](https://skillicons.dev)
+
+**Build / Infra**
+  
+[![My Skills](https://skillicons.dev/icons?i=maven,gradle,ubuntu&theme=light)](https://skillicons.dev)
+
+**Frontend / ETC**
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,php,c&theme=light)](https://skillicons.dev)
+
 
 ## 🛠 Tech Tool
-[![My Skills](https://skillicons.dev/icons?i=idea&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=eclipse&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=visualstudio&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,notion,figma&theme=light)](https://skillicons.dev)
 
 
 ## 📫 Contact
