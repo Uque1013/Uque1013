@@ -15,17 +15,22 @@
 
 
 ## 🛠 Tech Stack
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,php,c&theme=light)](https://skillicons.dev)
+
 **Backend**
-  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,mysql,redis&theme=light)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
 
 **Build / Infra**
-  
-[![My Skills](https://skillicons.dev/icons?i=maven,gradle,ubuntu&theme=light)](https://skillicons.dev)
 
-**Frontend / ETC**
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,php,c&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,gradle,ubuntu&theme=light)](https://skillicons.dev)
 
 
 ## 🛠 Tech Tool
