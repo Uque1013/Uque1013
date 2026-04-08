@@ -12,6 +12,9 @@
 
 - 📌 **MeetUp Center — 중간 지점 기반 약속 장소 추천 서비스**  
      *(2026.01)* *(Spring Boot · Kakao Maps API · MySQL)*
+  
+- 📌 **Nano Ticket — 티켓팅 포도알 잡기 연습 서비스**  
+     *(2026.04)* *(Spring Boot · MySQL)*
 
 
 ## 🛠 Tech Stack
